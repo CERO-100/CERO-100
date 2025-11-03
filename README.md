@@ -62,25 +62,25 @@ Proficient in **Database Management**, **API Integration**, and **UI/UX Design**
 
 ### 🚀 Featured Projects
 
-#### 🧭 [Self-Learning Tracker]()
+#### 🧭 [Self-Learning Tracker](https://github.com/CERO-100/Self_Leaning_Tracker)
 > **Django, MySQL, HTML, CSS, Bootstrap**  
 > Platform helping students plan, track, and stay consistent in learning.  
 > Includes skill-based roadmaps, progress tracking, and motivational badges.
 
-#### 💉 [Blood Bank Management System](#)
+#### 💉 [Blood Bank Management System](https://github.com/CERO-100/BloodBank)
 > **PHP, MySQL, HTML, CSS**  
 > Role-based donor/recipient dashboard with secure data handling and contact features.
 
 #### 💡 [Code Relay Event Website](https://cero-100.github.io/CodeRelay/)
 > **HTML, CSS, JS, Bootstrap**  
 > Official event website for Musaliar College’s coding challenge.  
-> Coordinated logistics and led full-stack development. *(View Certificate)*
+> Coordinated logistics and led full-stack development. (View Certificate https://www.linkedin.com/posts/titoretty_musaliarcollege-eventcoordinator-leadershipexperience-activity-7333402334812684289-retY)
 
-#### 🎮 [Game Genius Hub](#)
+#### 🎮 [Game Genius Hub](https://github.com/CERO-100/GameGeniusHub)
 > **PHP, MySQL, JS**  
 > Platform for sharing game walkthroughs, updates, and reviews with optimized UI & performance.
 
-#### 🧱 [College Productivity Website](https://lnkd.in/gDPMsz7b)
+#### 🧱 [College Productivity Website]()
 > Repository of semester-wise notes, question papers, and materials for college students.
 
 ---
