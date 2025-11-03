@@ -1,27 +1,135 @@
-<h1 align="center">Hi 👋, I'm Tito Retty</h1>
-<h3 align="center">full-stack development</h3>
+<!-- HEADER SECTION -->
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/titoretty/" target="_blank">Tito Retty</a></h1>
+<h3 align="center">💻 Freelance Full-Stack Developer | MCA Student | Tech Enthusiast from Kerala, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cero-100&label=Profile%20views&color=0e75b6&style=flat" alt="cero-100" /> </p>
-
-- 🔭 Project1 [Code Relay](https://lnkd.in/gzuBZ7gU)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/titoretty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/titoretty/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tit0.retty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tit0.retty" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ig.___cero__/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ig.___cero__/?next=%2f" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uckxhdxjk3sj2ykqq18t8okq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckxhdxjk3sj2ykqq18t8okq" height="30" width="40" /></a>
-<a href="https://discord.gg/cero_003_92866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cero_003_92866" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cero-100&label=Profile%20views&color=blueviolet&style=flat" alt="cero-100" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cero-100&show_icons=true&locale=en&layout=compact" alt="cero-100" /></p>
+### 📍 Contact Information
 
+<p align="center">
+📫 <a href="mailto:rettytito@gmail.com">rettytito@gmail.com</a> | 📞 +91 81389 53814  
+🌍 Tiruvalla, Kerala, India  
+🔗 <a href="https://github.com/CERO-100" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/titoretty/" target="_blank">LinkedIn</a>
+</p>
 
+---
 
-<!---
-CERO-100/CERO-100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧑‍💼 Professional Summary
+
+🎯 **Freelance Full-Stack Developer** and **MCA student** with expertise in **Python, Java, SQL, PHP**, and **MERN Stack Development**.  
+Strong foundation in **Cyber Security**, **Ethical Hacking**, and **Cloud Computing**, with hands-on experience delivering scalable, secure, and user-friendly web applications.  
+Proficient in **Database Management**, **API Integration**, and **UI/UX Design**. Passionate about **AI, Machine Learning**, and building solutions that inspire learning and growth.
+
+---
+
+### 🧰 Technical Skills
+
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Languages** | Python, Java, PHP, SQL, MySQL |
+| **Web Technologies** | HTML, CSS, JavaScript, React.js |
+| **Frameworks** | Django, MERN Stack (Ongoing), Bootstrap |
+| **Databases** | MySQL, MongoDB |
+| **Tools & Platforms** | Git, GitHub, VS Code, Docker, AWS, API Integration |
+
+---
+
+### 💼 Experience
+
+#### 🏢 **Qtech Solutions** – Web Development Intern *(2023)*
+- Contributed to full-stack development using **HTML, CSS, PHP, and MySQL**.  
+- Designed and maintained **database-driven applications** supporting client operations.  
+- Improved **front-end usability** and implemented optimized back-end features.
+
+#### 👨‍💻 **Freelancer – Full-Stack Developer** *(2024 – Present)*
+- Designed and developed **client-based applications** with secure backend and clean UI.  
+- Built **scalable solutions** integrating APIs, databases, and responsive designs.  
+- Managed **end-to-end project delivery** — requirements, development, testing, and deployment.
+
+---
+
+### 🎓 Education
+
+- 🎓 **Master of Computer Applications (MCA)** — *Musaliar College of Engineering & Technology, Kerala* (2024 – 2026)  
+- 🎯 **Fellow, NxtWave’s CCBP 4.0 Intensive Program** (2024 – 2026)  
+- 🧾 **Bachelor of Computer Applications (BCA)** — *Srinivas University, Mangalore* (2021 – 2024)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧭 [Self-Learning Tracker](#)
+> **Django, MySQL, HTML, CSS, Bootstrap**  
+> Platform helping students plan, track, and stay consistent in learning.  
+> Includes skill-based roadmaps, progress tracking, and motivational badges.
+
+#### 💉 [Blood Bank Management System](#)
+> **PHP, MySQL, HTML, CSS**  
+> Role-based donor/recipient dashboard with secure data handling and contact features.
+
+#### 💡 [Code Relay Event Website](https://lnkd.in/gzuBZ7gU)
+> **HTML, CSS, JS, Bootstrap**  
+> Official event website for Musaliar College’s coding challenge.  
+> Coordinated logistics and led full-stack development. *(View Certificate)*
+
+#### 🎮 [Game Genius Hub](#)
+> **PHP, MySQL, JS**  
+> Platform for sharing game walkthroughs, updates, and reviews with optimized UI & performance.
+
+#### 🧱 [College Productivity Website](https://lnkd.in/gDPMsz7b)
+> Repository of semester-wise notes, question papers, and materials for college students.
+
+---
+
+### 🏆 Certifications & Achievements
+
+- 🥇 Coordinator and Developer — **Code Relay Event Website**  
+- 📘 Completed **SQL Course** at NxtWave *(Certificate)*  
+- 🧾 Completed **NPTEL DBMS Course** *(Result)*  
+- 💪 Completed **30-Day & 50-Day Coding Challenges** *(NxtWave)*  
+- 🌐 Completed **Responsive Website Development Course** *(Certificate)*  
+- 🎤 Participated in University Debate — *“Is AI Dangerous?”*  
+- 🚀 Built **College Productivity Website** to support academic communities.
+
+---
+
+### ⚙️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,react,nodejs,mongodb,mysql,bootstrap,git,github,docker,linux,aws,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cero-100&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cero-100&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/titoretty/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/CERO-100" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://www.instagram.com/ig.___cero__/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://www.facebook.com/tit0.retty" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+  <a href="https://www.youtube.com/c/uckxhdxjk3sj2ykqq18t8okq" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
+</p>
+
+---
+
+### ✨ Quote I Live By
+
+> “Discipline, Consistency, and Faith turn every dream into a milestone.”  
+
+---
+
+<p align="center">⭐️ Crafted with passion by <a href="https://github.com/CERO-100">Tito Retty</a></p>
