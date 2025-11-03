@@ -80,18 +80,38 @@ Proficient in **Database Management**, **API Integration**, and **UI/UX Design**
 > **PHP, MySQL, JS**  
 > Platform for sharing game walkthroughs, updates, and reviews with optimized UI & performance.
 
-#### 🧱 [College Productivity Website]()
+#### 🧱 [College Productivity Website](https://github.com/CERO-100/order.github.io)
 > Repository of semester-wise notes, question papers, and materials for college students.
+
+#### 🎮 [Guess the number](https://github.com/CERO-100/Guss_The_Number)
+> A fun and interactive number guessing game where the player tries to guess a randomly generated number within a specific range. The program provides hints like “Too High” or “Too Low” after each guess, guiding the player toward the correct number.
+
+⚙️ Features
+Random number generation using built-in libraries.
+Dynamic feedback after each attempt.
+Limited number of chances (configurable).
+Option to restart the game after completion.
+Simple and engaging user interface (CLI or web version).
+
+#### 💊 [DrugDetection](https://github.com/CERO-100/drugDitection)
+> The Drug Detection System is an intelligent machine learning-based application designed to analyze and predict the presence or risk of drug usage or drug-related substances based on given data or behavioral patterns. The system can be used in healthcare, law enforcement, or research environments to assist in identifying potential misuse or anomalies from patient or sample data.
+
+⚙️ Features
+🧾 Data Preprocessing: Cleans and normalizes user input or dataset for accurate predictions.
+🌐 Web Interface: User-friendly interface for input submission and result visualization.
+📊 Result Dashboard: Displays prediction outcomes with confidence score and details.
+💾 Database Integration: Stores user inputs and results securely using MySQL.
+
 
 ---
 
 ### 🏆 Certifications & Achievements
 
 - 🥇 Coordinator and Developer — **Code Relay Event Website**  
-- 📘 Completed **SQL Course** at NxtWave *(Certificate)*  
-- 🧾 Completed **NPTEL DBMS Course** *(Result)*  
-- 💪 Completed **30-Day & 50-Day Coding Challenges** *(NxtWave)*  
-- 🌐 Completed **Responsive Website Development Course** *(Certificate)*  
+- 📘 Completed **SQL Course** at NxtWave *https://www.linkedin.com/posts/titoretty_introduction-to-databases-certification-activity-7318338204837859328-VjTd*  
+- 🧾 Completed **NPTEL DBMS Course** *https://www.linkedin.com/posts/titoretty_the-nptel-database-management-system-exam-activity-7313553541665591296-gAVK*  
+- 💪 Completed **30-Day & 50-Day Coding Challenges** *https://www.linkedin.com/posts/titoretty_consistency-focus-discipline-activity-7297218411573452800-FzEX*  
+- 🌐 Completed **Responsive Website Development Course** *https://www.linkedin.com/posts/titoretty_responsivedesign-webdevelopment-learningjourney-activity-7257020383835402240-1joT*  
 - 🎤 Participated in University Debate — *“Is AI Dangerous?”*  
 - 🚀 Built **College Productivity Website** to support academic communities.
 
