@@ -33,7 +33,7 @@ Proficient in **Database Management**, **API Integration**, and **UI/UX Design**
 | **Languages** | Python, Java, PHP, SQL, MySQL |
 | **Web Technologies** | HTML, CSS, JavaScript, React.js |
 | **Frameworks** | Django, MERN Stack (Ongoing), Bootstrap |
-| **Databases** | MySQL, MongoDB |
+| **Databases** | MySQL, SQLite, MongoDB |
 | **Tools & Platforms** | Git, GitHub, VS Code, Docker, AWS, API Integration |
 
 ---
@@ -62,7 +62,7 @@ Proficient in **Database Management**, **API Integration**, and **UI/UX Design**
 
 ### 🚀 Featured Projects
 
-#### 🧭 [Self-Learning Tracker](#)
+#### 🧭 [Self-Learning Tracker]()
 > **Django, MySQL, HTML, CSS, Bootstrap**  
 > Platform helping students plan, track, and stay consistent in learning.  
 > Includes skill-based roadmaps, progress tracking, and motivational badges.
@@ -71,7 +71,7 @@ Proficient in **Database Management**, **API Integration**, and **UI/UX Design**
 > **PHP, MySQL, HTML, CSS**  
 > Role-based donor/recipient dashboard with secure data handling and contact features.
 
-#### 💡 [Code Relay Event Website](https://lnkd.in/gzuBZ7gU)
+#### 💡 [Code Relay Event Website](https://cero-100.github.io/CodeRelay/)
 > **HTML, CSS, JS, Bootstrap**  
 > Official event website for Musaliar College’s coding challenge.  
 > Coordinated logistics and led full-stack development. *(View Certificate)*
