@@ -63,57 +63,108 @@ Proficient in **Database Management**, **API Integration**, and **UI/UX Design**
 ### 🚀 Featured Projects
 
 #### 🧭 [Self-Learning Tracker](https://github.com/CERO-100/Self_Leaning_Tracker)
-> **Django, MySQL, HTML, CSS, Bootstrap**  
-> Platform helping students plan, track, and stay consistent in learning.  
-> Includes skill-based roadmaps, progress tracking, and motivational badges.
+**Tech Stack:** Django, MySQL, HTML, CSS, Bootstrap  
+A productivity platform that helps students plan, track, and stay consistent in their learning journey.  
+🔹 Skill-based learning roadmaps  
+🔹 Progress analytics with motivational badges  
+🔹 Task scheduling and reminders  
+
+---
 
 #### 💉 [Blood Bank Management System](https://github.com/CERO-100/BloodBank)
-> **PHP, MySQL, HTML, CSS**  
-> Role-based donor/recipient dashboard with secure data handling and contact features.
+**Tech Stack:** PHP, MySQL, HTML, CSS  
+A role-based web system that connects blood donors and recipients.  
+🔹 Secure donor-recipient database  
+🔹 Public blood donation & contact feature  
+🔹 Admin dashboard for data management  
+
+---
 
 #### 💡 [Code Relay Event Website](https://cero-100.github.io/CodeRelay/)
-> **HTML, CSS, JS, Bootstrap**  
-> Official event website for Musaliar College’s coding challenge.  
-> Coordinated logistics and led full-stack development. (View Certificate https://www.linkedin.com/posts/titoretty_musaliarcollege-eventcoordinator-leadershipexperience-activity-7333402334812684289-retY)
+**Tech Stack:** HTML, CSS, JS, Bootstrap  
+Official website for *Musaliar College’s coding challenge — Code Relay*.  
+🔹 Responsive event website  
+🔹 Registration and event details section  
+🔹 Coordinated and developed as event lead  
+📜 [View Certificate](https://www.linkedin.com/posts/titoretty_musaliarcollege-eventcoordinator-leadershipexperience-activity-7333402334812684289-retY)
+
+---
 
 #### 🎮 [Game Genius Hub](https://github.com/CERO-100/GameGeniusHub)
-> **PHP, MySQL, JS**  
-> Platform for sharing game walkthroughs, updates, and reviews with optimized UI & performance.
+**Tech Stack:** PHP, MySQL, JavaScript  
+A platform for gamers to share walkthroughs, reviews, and updates.  
+🔹 CRUD-based admin management  
+🔹 Optimized UI & loading performance  
+🔹 Secure user authentication  
+
+---
 
 #### 🧱 [College Productivity Website](https://github.com/CERO-100/order.github.io)
-> Repository of semester-wise notes, question papers, and materials for college students.
+**Tech Stack:** HTML, CSS, JS  
+A centralized hub for semester notes, question papers, and materials for students.  
+🔹 Organized semester-wise content  
+🔹 Easy navigation and fast access  
 
-#### 🎮 [Guess the number](https://github.com/CERO-100/Guss_The_Number)
-> A fun and interactive number guessing game where the player tries to guess a randomly generated number within a specific range. The program provides hints like “Too High” or “Too Low” after each guess, guiding the player toward the correct number.
+---
 
-⚙️ Features
-Random number generation using built-in libraries.
-Dynamic feedback after each attempt.
-Limited number of chances (configurable).
-Option to restart the game after completion.
-Simple and engaging user interface (CLI or web version).
+#### 🎮 [Guess the Number](https://github.com/CERO-100/Guss_The_Number)
+**Tech Stack:** Python  
+A fun interactive CLI game where users guess a randomly generated number.  
+🔹 Random number generation  
+🔹 Real-time hints (“Too High” / “Too Low”)  
+🔹 Restart option and attempt limits  
 
-#### 💊 [DrugDetection](https://github.com/CERO-100/drugDitection)
-> The Drug Detection System is an intelligent machine learning-based application designed to analyze and predict the presence or risk of drug usage or drug-related substances based on given data or behavioral patterns. The system can be used in healthcare, law enforcement, or research environments to assist in identifying potential misuse or anomalies from patient or sample data.
+---
 
-⚙️ Features
-🧾 Data Preprocessing: Cleans and normalizes user input or dataset for accurate predictions.
-🌐 Web Interface: User-friendly interface for input submission and result visualization.
-📊 Result Dashboard: Displays prediction outcomes with confidence score and details.
-💾 Database Integration: Stores user inputs and results securely using MySQL.
-
+#### 💊 [Drug Detection System](https://github.com/CERO-100/drugDitection)
+**Tech Stack:** Python, Machine Learning, MySQL  
+An intelligent ML-based tool for detecting drug usage patterns or anomalies from data.  
+🔹 Data preprocessing and normalization  
+🔹 Web interface for predictions  
+🔹 Result dashboard with confidence scores  
+🔹 Secure database integration for records  
 
 ---
 
 ### 🏆 Certifications & Achievements
 
-- 🥇 Coordinator and Developer — **Code Relay Event Website**  
-- 📘 Completed **SQL Course** at NxtWave *https://www.linkedin.com/posts/titoretty_introduction-to-databases-certification-activity-7318338204837859328-VjTd*  
-- 🧾 Completed **NPTEL DBMS Course** *https://www.linkedin.com/posts/titoretty_the-nptel-database-management-system-exam-activity-7313553541665591296-gAVK*  
-- 💪 Completed **30-Day & 50-Day Coding Challenges** *https://www.linkedin.com/posts/titoretty_consistency-focus-discipline-activity-7297218411573452800-FzEX*  
-- 🌐 Completed **Responsive Website Development Course** *https://www.linkedin.com/posts/titoretty_responsivedesign-webdevelopment-learningjourney-activity-7257020383835402240-1joT*  
-- 🎤 Participated in University Debate — *“Is AI Dangerous?”*  
-- 🚀 Built **College Productivity Website** to support academic communities.
+#### 🎓 Academic & Technical Certifications
+- 🧾 **NPTEL – Database Management Systems**  
+  [View Certificate](https://www.linkedin.com/posts/titoretty_the-nptel-database-management-system-exam-activity-7313553541665591296-gAVK)  
+  *Gained deep understanding of database concepts, ER models, and query optimization.*
+
+- 🧩 **NxtWave – Introduction to Databases (SQL)**  
+  [View Certificate](https://www.linkedin.com/posts/titoretty_introduction-to-databases-certification-activity-7318338204837859328-VjTd)  
+  *Mastered SQL queries, joins, and database design fundamentals.*
+
+- 🌐 **Responsive Website Development (NxtWave)**  
+  [View Certificate](https://www.linkedin.com/posts/titoretty_responsivedesign-webdevelopment-learningjourney-activity-7257020383835402240-1joT)  
+  *Built mobile-first, responsive web interfaces with HTML, CSS, and Bootstrap.*
+
+- 💻 **Qtech Solutions – Web Development Internship (2023)**  
+  *Developed full-stack applications using PHP and MySQL.*  
+
+---
+
+#### 🚀 Coding Challenges & Events
+- 🥇 **Coordinator & Developer – Code Relay Event Website**  
+  [View Certificate](https://www.linkedin.com/posts/titoretty_musaliarcollege-eventcoordinator-leadershipexperience-activity-7333402334812684289-retY)  
+  *Led event logistics and website development for Musaliar College coding competition.*
+
+- 💪 **30-Day Coding Challenge – NxtWave**  
+  [View Certificate](https://www.linkedin.com/posts/titoretty_codingchallenge-consistency-growthmindset-activity-7297217178544615424-AK7c)  
+
+- 🧠 **50-Day Coding Challenge – NxtWave**  
+  [View Certificate](https://www.linkedin.com/posts/titoretty_consistency-focus-discipline-activity-7297218411573452800-FzEX)  
+  *Focused on daily practice, consistency, and problem-solving skills.*
+
+---
+
+#### 🏅 Academic & Leadership Achievements
+- 🏗️ **Developed College Productivity Website** — A resource hub for students to access notes and past papers.  
+- 🎤 **University Debate Participant** — *“Is AI Dangerous?”*, exploring both ethical and technological perspectives. [View Photos](https://www.linkedin.com/posts/titoretty_universitydebate-ai-studentlife-activity-7262293609348030464-HcO-) 
+- 🧭 **Organized and Coordinated Tech Events** at Musaliar College.  
+- ⚙️ **Contributed to Open-Source Projects** related to education and productivity.
 
 ---
 
