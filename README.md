@@ -63,7 +63,7 @@ Proficient in **Database Management**, **API Integration**, and **UI/UX Design**
 ### 🚀 Featured Projects
 
 #### 🧭 [Self-Learning Tracker](https://github.com/CERO-100/Self_Leaning_Tracker)
-**Tech Stack:** Django, MySQL, HTML, CSS, Bootstrap  
+**Tech Stack:** Django, MySQL, React, Next.js, tailwind css, Bootstrap  
 A productivity platform that helps students plan, track, and stay consistent in their learning journey.  
 🔹 Skill-based learning roadmaps  
 🔹 Progress analytics with motivational badges  
