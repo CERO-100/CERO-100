@@ -171,7 +171,7 @@ An intelligent ML-based tool for detecting drug usage patterns or anomalies from
 ### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,react,nodejs,mongodb,mysql,bootstrap,git,github,docker,linux,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,react,nodejs,django,mongodb,mysql,bootstrap,git,github,docker,linux,aws,vscode" />
 </p>
 
 ---
